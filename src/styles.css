@@ -154,14 +154,20 @@ hr {
   font-size: 80px;
 }
 
-.contact a {
+/* .contact a {
   text-decoration: none;
   color: #69DBC6;
-}
+} */
 
-.contact section {
+/* .contact section {
   margin: 30px auto;
   text-align: center;
+} */
+
+.contact svg {
+  fill: #69DBC6;
+  width: 80px;
+  height: 80px;
 }
 
 #mail {
@@ -202,11 +208,7 @@ hr {
     "github" "linkedin"
     "facebook" "instagram";
     width: 100%;
-    margin-top: 8vh;
-  }
-
-  .icons i {
-    /* margin: 20px 0px; */
+    margin-top: 3vh;
   }
 
   .navlink {
@@ -215,13 +217,11 @@ hr {
 
   .navbar {
     position: sticky;
-    /* top: 20px; */
   }
 
   #profile-pic {
     height: 200px;
     width: 200px;
-    margin-top: 100px;
   }
 
   .home h1 {
@@ -235,6 +235,7 @@ hr {
 
   .content {
     padding: 0px 20px;
+    margin-bottom: 30px;
   }
 
   .content h1 {
