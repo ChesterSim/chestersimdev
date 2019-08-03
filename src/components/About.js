@@ -26,13 +26,13 @@ class About extends React.Component {
         I love going overseas, exploring new places, and try local delights! On new technologies, I’m one of those
         who people will call Apple sheep. I do love the Apple ecosystem, and how seamless everything works together.
         Of course, I do appreciate other similar products from competitors and also see the falling standards of Apple,
-        but my faith won’t going anywhere in the foreseeable future. Love to talk about tech too? Hit me up!</p>
+        but my faith won’t be going anywhere in the foreseeable future. Love to talk about tech too? Hit me up!</p>
 
         <p><br /><hr />Nobody:</p>
         <p>My favourite short story is by Manoj Bhargava:
         “A blind man is walking towards a well, and there’s a guy watching. If the blind man falls into the well,
         who gets the blame? The blind man or the guy who is watching?”</p>
-        <p>I believe that we should always try and help those around us, even if it is a minute task, and maybe one day that favour will be returned to us &#128513;</p>
+        <p>I believe that we should always try and help those around us, even if it is a minute task, and maybe one day that favour will be returned to us <span>&#128513;</span></p>
       </div>
     )
   }
